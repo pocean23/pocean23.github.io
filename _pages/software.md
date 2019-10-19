@@ -19,7 +19,7 @@ My primary data analysis tool is the wonderful open-source software, python. The
 |--------|
 |  <center>co-founding author and core developer</center> |
 | <center>:earth_americas:  an xarray wrapper for analysis of ensemble forecast models for climate prediction  :earth_americas:</center> |
-| <center>documentation and installation <a href="climpred.readthedocs.io">here</a> </center> |
+| <center>documentation and installation <a href="https://climpred.readthedocs.io">here</a> </center> |
 
 <p>
 </p>
@@ -28,7 +28,7 @@ My primary data analysis tool is the wonderful open-source software, python. The
 |--------|
 |  <center>founding author and core developer</center> |
 | <center>:octopus:  a toolbox for Earth System Model analysis  :octopus:</center> |
-| <center>documentation and installation <a href="esmtools.readthedocs.io">here</a> </center> |
+| <center>documentation and installation <a href="https://esmtools.readthedocs.io">here</a> </center> |
 
 <p>
 </p>
