@@ -1,6 +1,7 @@
 ---
 layout: page
 title: software
+permalink: /software/
 ---
 
 [comment]: <> (This adds padding between software packages.)
