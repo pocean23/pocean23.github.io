@@ -1,5 +1,8 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
+
+<!--
+Original HTML from md-cv.
 <head>
   <meta charset=utf-8 />
   <title> Riley Brady's CV</title>
@@ -7,11 +10,77 @@
   <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
   <link href="media/academicons.min.css" rel="stylesheet">
 
-  <!-- imports -->
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 </head>
+-->
+{% include cv_head.html %}
 <body>
+  {% include header.html %}
+   
+  <!-- I know this is bad form, but I'm selectively taking stuff from cv-screen.css to
+    get the text and other things right, but maintaining the stylesheet from the main website
+    to get the header bar. -->
+  <style>
+    .bigbox {
+    margin-top: 100px;
+    }
+     a {
+     color: #CD5C5C;
+    }
+
+    h1,h2,h3,h4 {
+  font-weight: 400;
+  font-family: Cousine,Verdana,sans-serif;
+  width: 65%;
+}
+
+  h1 {
+    color: #cd5c5c;
+    text-align: left;
+    font-size: 3em;
+    line-height: 1em;
+    position: relative;
+    margin-top: 2em;
+    left: 25%;
+    /* padding: .1rem 1rem; */
+    text-shadow: 1px 1px #fff,
+                  1px 2px #ccc;
+  }
+
+  h1+p {
+    /*subtitle*/
+    color: #1D49A0;
+    font-style: italic;
+    font-size: 110%;
+    line-height: 2em;
+    margin-top: 0.5em;
+    margin-bottom: 0em !important;
+  }
+
+  h2 {
+    font-size: 1.1em;
+    /* color: #a00; */
+    color: #1D49A0;
+    margin-top: 2em;
+    position: relative;
+    top: 1.4em;
+    text-align: right;
+    width: 15%;
+  }
+
+
+    h3 {
+      color: #cd5c5c;
+      font-size: 1em;
+      line-height: 2em;
+      position: relative;
+      top: 1.7em;
+      text-align: right;
+      width: 15%;
+    }
+  </style>
+
   <div id="main">
     <div id="content">
     {{ content }}

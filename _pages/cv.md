@@ -2,20 +2,20 @@
 layout: cv
 title: vita 
 permalink: /cv/
-author_profile: true
+author_profile: false
 ---
 
 # Riley X. Brady 
 Ph.D. Candidate in Atmospheric and Oceanic Sciences
 
 <div id="webaddress">
-<i class="fa fa-arrow-alt-circle-left"></i> <a href="http://www.rileyxbrady.com">HOME</a>
 |
 <a href="mailto:riley.brady@colorado.edu">riley.brady@colorado.edu</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/bradyrx">bradyrx</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/rileyxbrady">rileyxbrady</a>
+|
 </div>
 
 
