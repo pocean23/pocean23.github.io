@@ -11,7 +11,7 @@ p {
 }
 </style>
 
-My primary data analysis tool is the wonderful open-source software, python. There has been a recent push in the Geoscience community toward the language, since domain-specific packages can be developed fully open-source and the language supports out-of-memory computation with [dask](https://dask.org/) and easy analysis over labelled arrays with [xarray](http://xarray.pydata.org/). I collaborate with developers primarily through the [pangeo](http://pangeo.io/collaborators.html) project.
+My primary data analysis tool is the wonderful open-source language, python. There has been a recent push in the Geoscience community toward the language, since domain-specific packages can be developed fully open-source and the language supports out-of-memory computation with [dask](https://dask.org/) and easy analysis over labelled arrays with [xarray](http://xarray.pydata.org/). I collaborate with developers primarily through the [pangeo](http://pangeo.io/collaborators.html) project.
 
 ## core developer
 
