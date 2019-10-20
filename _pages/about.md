@@ -5,7 +5,7 @@ title: <strong>Riley</strong> X. Brady
 description: <a href="">PhD Candidate in Atmospheric & Oceanic Sciences</a>. DOE CSGF Fellow.
 
 profile:
-  align: right
+  align: left
   image: profile.jpg
 
 news: true 

@@ -11,7 +11,7 @@ footer_text: >
 
 url: https://bradyrx.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated:  # leave blank if you don't want to display last updated
+last_updated: Oct. 20th, 2019  # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -23,13 +23,13 @@ orcid_id: 0000-0002-2309-8245 # your ORCID ID
 contact_note: >
   You can reach me at riley.brady@colorado.edu
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-90792639-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: coding and climate 
-blog_description: 
+blog_description: my musings on programming and the Earth system
 
 # Pagination
 paginate: 4
