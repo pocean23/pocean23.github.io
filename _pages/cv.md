@@ -288,7 +288,7 @@ _Consequences of changing high-pressure zones on future coastal upwelling_. Ocea
 
 ### Workshops
 `2019`
-_Effective Use of Color in Climate Science Visualizations_. ATOC Graduate Student Forum. (Boulder, CO)
+_Effective Use of Color in Climate Science Visualizations_. ATOC Graduate Student Forum. (Boulder, CO) [[Github Repo with Binder]](https://github.com/bradyrx/climate_science_colormapping)
 
 _Introduction to Git Version Control_. ATOC Graduate Student Forum. (Boulder, CO)
 
