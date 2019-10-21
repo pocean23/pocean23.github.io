@@ -23,7 +23,7 @@ orcid_id: 0000-0002-2309-8245 # your ORCID ID
 contact_note: >
   You can reach me at riley.brady@colorado.edu
 
-google_analytics: UA-90792639-1 # out your google-analytics code
+google_analytics: # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
