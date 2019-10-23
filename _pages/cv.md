@@ -232,6 +232,9 @@ Grader, _Ordinary Differential Equations_ (39 Students)
 Lecturer, _University 101_ (20 Students)
 
 ### University of Texas Rio Grande Valley
+`Fall 2019`
+Guest Lecturer, _Intro to Scientific Computing for Earth Sciences_ (From Raw Climate Data to Beautiful Plots) [[Github Repo]](https://github.com/bradyrx/matplotlib_tutorial)
+
 `Spring 2019`
 Guest Lecturer, _Intro to Scientific Computing for Earth Sciences_ (Color Theory and Matplotlib)
 
@@ -244,6 +247,10 @@ _High resolution simulation of biogeochemical pathways in E3SM_. Computational E
 _On the role of climate modes in modulating the air-sea CO2 fluxes in Eastern Boundary Upwelling Systems_. EBUS Webinar Series. [[Video]](https://www.youtube.com/watch?v=hc5r_tOQQDY&t=183s)
 
 `2018`
+_Effective Use of Color in Scientific Visualization_. Scientific Programming and Data Visualization (ATOC Course: Sci Programming, Data Analysis, and Vis Lab). (Boulder, CO)
+
+_Effective Use of Color in Scientific Visualization_. ATOC Graduate Student Forum. (Boulder, CO)
+
 _Southern Ocean Carbon Hotspots in E3SM_. Climate, Ocean, and Sea Ice Modeling (COSIM) Team. (Los Alamos, NM)
 
 `2016`
@@ -291,10 +298,6 @@ _Consequences of changing high-pressure zones on future coastal upwelling_. Ocea
 _Effective Use of Color in Climate Science Visualizations_. ATOC Graduate Student Forum. (Boulder, CO) [[Github Repo with Binder]](https://github.com/bradyrx/climate_science_colormapping)
 
 _Introduction to Git Version Control_. ATOC Graduate Student Forum. (Boulder, CO)
-
-_Effective Use of Color in Scientific Visualization_. Scientific Programming and Data Visualization (ATOC Course). (Boulder, CO)
-
-_Effective Use of Color in Scientific Visualization_. ATOC Graduate Student Forum. (Boulder, CO)
 
 ## Short Courses 
 
