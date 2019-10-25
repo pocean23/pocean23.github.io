@@ -167,6 +167,11 @@ Outstanding Student Presentation Award, Ocean Sciences Meeting
 `2013`
 1st Place, Morning Oral STEM Session, South Carolina Discovery Day
 
+### Visualization
+
+`2019`
+Runner-up, Data Visualization and Storytelling Competition, American Geophysical Union
+
 ## Service
 
 ### Mentorship
