@@ -344,6 +344,6 @@ NMFS Marine Resources Population Dynamics Workshop (Layton, FL)
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/rileyxbrady">rileyxbrady</a><br />
 * <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=H_nRAbIAAAAJ">Google Scholar</a>
 
-<!-- ### Footer
+<br>
 
-Last updated: July 2019 -->
+<center> Last updated: October 2019 </center>
