@@ -56,9 +56,14 @@ __UNC Institute of Marine Sciences__ NSF REU Scholar, Coastal Fisheries Ecology 
 
 ## Publications
 
-### Under Review
-`2019`
-__Brady, RX__, NS Lovenduski, SG Yeager, MC Long, and K Lindsay (2019), Skillful multiyear predictions of ocean acidification in the California Current System, _Nature Communications_. [[Preprint]](/papers/Brady2019b.pdf) [[Supplemental]](/papers/Brady2019bSupplemental.pdf)
+### In Press
+`2020`
+__Brady, RX__, NS Lovenduski, SG Yeager, MC Long, and K Lindsay (2020), Skillful multiyear predictions of ocean acidification in the California Current System, _Nature Communications_. [[Preprint]](/papers/Brady2020.pdf) [[Supplemental]](/papers/Brady2020Supplemental.pdf)
+
+`2020`
+Elsworth, GE, NS Lovenduski, KA McKinnon, KM Krumhardt, and __RX Brady__ (2020), Finding
+the fingerprint of anthropogenic climate change in marine phytoplankton abundance,
+_Current Climate Change Reports_.
 
 ### Peer-Reviewed
 `2019`
