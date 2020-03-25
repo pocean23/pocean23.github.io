@@ -16,4 +16,4 @@ $ ./bin/deploy --user
 ```
 
 This will merge `source` with `master` appropriately. You'll probably have to go into the settings of the repo each time to ensure that the custom domain points
-to www.rileyxbrady.com.
+to pocean23.github.io 
