@@ -1,85 +1,12 @@
 ---
 layout: post
-title: a post with typograms
-date: 2024-04-29 23:36:10
-description: this is what included typograms code could look like
-tags: formatting diagrams
+title: Post coming soon
+date: 2025-12-11 15:06:00
+description: this is what a post that can be cited looks like
+tags: formatting citation
 categories: sample-posts
-typograms: true
+citation: true
+published: true
 ---
 
-This is an example post with some [typograms](https://github.com/google/typograms/) code.
-
-````markdown
-```typograms
-+----+
-|    |---> My first diagram!
-+----+
-```
-````
-
-Which generates:
-
-```typograms
-+----+
-|    |---> My first diagram!
-+----+
-```
-
-Another example:
-
-````markdown
-```typograms
-.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-```
-````
-
-which generates:
-
-```typograms
-.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-```
-
-For more examples, check out the [typograms documentation](https://google.github.io/typograms/#examples).
+This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the `citation` key in the front matter to `true`.

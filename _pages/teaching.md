@@ -1,12 +1,26 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+<ul>
+  <li>
+    <strong>Introduction to Oceanography (MARN1002)</strong>, Fall 2023  
+    Delivered four lectures. Class size: 31 students. Topics included temperature, salinity, density of seawater, the Coriolis effect, pressure systems, and their influence on global salinity patterns.
+  </li>
+
+  <li>
+    <strong>Intro to Physics (PHY1010Q)</strong>, Spring 2024  
+    Guest lecture covering sound waves and the Doppler effect.
+  </li>
+
+  <li>
+    <strong>Physics Lab (PHY1010Q)</strong>, Fall 2023 & Spring 2024  
+    Served as a teaching assistant.
+  </li>
+</ul>
