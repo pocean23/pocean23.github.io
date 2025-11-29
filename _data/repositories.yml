@@ -1,0 +1,13 @@
+github_users:
+  - pocean23
+
+
+repo_description_lines_max: 2
+
+github_repos:
+  - pocean23/Saildrone-ADCP-Measurements-for-Submesoscale-Studies
+  - pocean23/GFL2024-GravityCurrents
+  - pocean23/MARN-5895-Final-Project
+  - ggebbie/TMI.jl
+  - pocean23/ams-ml-python-course
+  - pocean23/Oceananigans.jl

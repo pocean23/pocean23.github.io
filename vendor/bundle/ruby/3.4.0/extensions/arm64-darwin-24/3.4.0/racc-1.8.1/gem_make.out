@@ -1,0 +1,18 @@
+current directory: /Users/paban23/my-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/paban23/my-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251127-81380-1hqcno sitelibdir\=./.gem.20251127-81380-1hqcno clean
+
+current directory: /Users/paban23/my-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251127-81380-1hqcno sitelibdir\=./.gem.20251127-81380-1hqcno
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/paban23/my-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251127-81380-1hqcno sitelibdir\=./.gem.20251127-81380-1hqcno install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251127-81380-1hqcno/racc
+
+current directory: /Users/paban23/my-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251127-81380-1hqcno sitelibdir\=./.gem.20251127-81380-1hqcno clean
