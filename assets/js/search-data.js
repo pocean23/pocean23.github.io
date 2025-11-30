@@ -68,8 +68,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paban-defended-his-phd-proposal-sparkles-smile",
-          title: 'Paban defended his PhD proposal! :sparkles: :smile:',
+            },},{id: "news-news-about-my-progress-will-be-posted-soon-sparkles-smile",
+          title: 'NEWS about my progress will be posted soon! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
