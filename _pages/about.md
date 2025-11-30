@@ -28,9 +28,11 @@ latest_posts:
 ---
 
 
-I am Paban, a fourth-year PhD student in the [Air-Sea Lab](https://uconn-air-sea-lab.netlify.app) at the University of Connecticut, guided by [Dr. Leonel Romero](https://uconn-air-sea-lab.netlify.app) at UConn and [Dr. Cesar Rocha](https://cesar-rocha.github.io) at USP. My scholarly pursuits explore the oceanic currents that astronomer and oceanographer Paul Scully-Power observed from space, known as submesoscale ocean processes (as cited in *Oceans to Orbit*). For my research, I employ robotic vehicles that venture into the deep, exploring the oceanic frontiers we direct them toward. Presently, my focus lies on submesoscale phenomena near oceanic fronts—regions where water properties undergo sharp transitions.
+I am Paban, a PhD candidate in the [Air-Sea Lab](https://uconn-air-sea-lab.netlify.app) at the University of Connecticut, guided by [Dr. Leonel Romero](https://uconn-air-sea-lab.netlify.app) at UConn and [Dr. Cesar Rocha](https://cesar-rocha.github.io) at USP. My research explores the oceanic currents that astronomer and oceanographer Paul Scully-Power observed from space, known as submesoscale ocean processes (as cited in *Oceans to Orbit*). I use robotic vehicles to study submesoscale phenomena near oceanic fronts, where water properties change sharply.
 
-In addition to my primary research, I engage in DIY science, constructing instruments such as wave sensors. Pictured here is the wave buoy sensor we engineered, originally an undergraduate project by Vicki You, alongside Akaawase Bernard and Leonel Romero. We also devised a pressure sensor, the fruition of Hiryu Shinand’s project, again in collaboration with Akaawase Bernard and Leonel Romero.
+Beyond my PhD research, I build instruments such as wave sensors. So far, we have engineered two sensors: a wave buoy sensor, originally an undergraduate project by Vicki You, with Akaawase Bernard and Leonel Romero, and a pressure sensor developed from Hiryu Shinand’s project, again in collaboration with Akaawase Bernard and Leonel Romero.
 
-My academic journey began with a master's degree in Climate Science and Technology from [IIT Bhubaneswar](https://www.iitbbs.ac.in/eoc.php/). Following that, I served as a Junior Research Fellow for a year at IIT Delhi within the Department of Applied Mechanics—a fascinating domain, though my undergraduate roots were in Civil Engineering. Yet, my ardor for geophysical fluid dynamics led me to traverse into this realm.
+I hold a master’s in Climate Science and Technology from [IIT Bhubaneswar](https://www.iitbbs.ac.in/eoc.php/) and worked as a Junior Research Fellow at IIT Delhi in the Department of Applied Mechanics, following an undergraduate degree in Civil Engineering. I am currently seeking postdoctoral opportunities in physical oceanography, focusing on submesoscale processes.
+
+
 
