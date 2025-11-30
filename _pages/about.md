@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 
-I am Paban, a PhD candidate in the [Air-Sea Lab](https://uconn-air-sea-lab.netlify.app) at the University of Connecticut, guided by [Dr. Leonel Romero](https://uconn-air-sea-lab.netlify.app) at UConn and [Dr. Cesar Rocha](https://cesar-rocha.github.io) at USP. My research explores the oceanic currents that astronomer and oceanographer Paul Scully-Power observed from space, known as submesoscale ocean processes (as cited in *Oceans to Orbit*). I use robotic vehicles to study submesoscale phenomena near oceanic fronts, where water properties change sharply.
+I am a PhD candidate in the [Air-Sea Lab](https://uconn-air-sea-lab.netlify.app) at the University of Connecticut, guided by [Dr. Leonel Romero](https://uconn-air-sea-lab.netlify.app) at UConn and [Dr. Cesar Rocha](https://cesar-rocha.github.io) at USP. My research explores the oceanic currents that astronomer and oceanographer Paul Scully-Power observed from space, known as submesoscale ocean processes (as cited in *Oceans to Orbit*). I use robotic vehicles to study submesoscale phenomena near oceanic fronts, where water properties change sharply.
 
 Beyond my PhD research, I build instruments such as wave sensors. So far, we have engineered two sensors: a wave buoy sensor, originally an undergraduate project by Vicki You, with Akaawase Bernard and Leonel Romero, and a pressure sensor developed from Hiryu Shinand’s project, again in collaboration with Akaawase Bernard and Leonel Romero.
 
