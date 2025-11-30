@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paban defended his PhD proposal! :sparkles: :smile:
+NEWS about my progress will be posted soon! :sparkles: :smile:
