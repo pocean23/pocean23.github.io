@@ -38,6 +38,61 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/blog/2025/typograms/";
+          
+        },
+      },{id: "post-post-coming-soon",
+        
+          title: "Post coming soon",
+        
+        description: "this is what a post that can be cited looks like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/typograms-copy/";
+          
+        },
+      },{id: "post-post-coming-soon",
+        
+          title: "Post coming soon",
+        
+        description: "this is what a post that can be cited looks like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/typograms-copy-2/";
+          
+        },
+      },{id: "post-post-coming-soon",
+        
+          title: "Post coming soon",
+        
+        description: "this is what a post that can be cited looks like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/photo-gallery/";
+          
+        },
+      },{id: "post-post-coming-soon",
+        
+          title: "Post coming soon",
+        
+        description: "this is what a post that can be cited looks like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/tabs/";
+          
+        },
+      },{id: "post-post-coming-soon",
+        
+          title: "Post coming soon",
+        
+        description: "this is what a post that can be cited looks like",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/blog/2025/post-citation/";
           
         },
