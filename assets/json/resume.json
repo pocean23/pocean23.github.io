@@ -81,6 +81,12 @@
   ],
   "awards": [
     {
+      "title": "Conference Participation Award, UConn Graduate School",
+      "date": "2026",
+      "awarder": "",
+      "summary": "$750"
+    },
+    {
       "title": "Andrew J. Nalwalk Memorial Award",
       "date": "2025",
       "awarder": "",
@@ -109,9 +115,9 @@
     {
       "name": "Bhuyan, P., Rocha, C.B., Romero, L. and Farrar, J.T.: Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to Submesoscale Studies",
       "publisher": "Journal of Atmospheric and Oceanic Technology",
-      "releaseDate": "2025",
-      "url": "http://dx.doi.org/10.31223/X5SX30",
-      "summary": "In review"
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1175/JTECH-D-24-0114.1",
+      "summary": ""
     },
     {
       "name": "Farrar, T. and 37 coauthors (including Paban Bhuyan): S-MODE: the Sub-Mesoscale Ocean Dynamics Experiment",
@@ -137,7 +143,7 @@
     {
       "name": "Software",
       "level": "Proficient",
-      "keywords": ["Arduino", "Git", "GitHub", "Vim", "CDO", "GrADS", "PARCELS", "ODV", "Panoply", "ParaView", "Ferret", "SNAP", "ROMS"]
+      "keywords": ["Arduino", "Git", "GitHub", "Vim", "CDO", "GrADS", "PARCELS", "ODV", "Panoply", "ParaView", "Ferret", "SNAP", "ROMS","Oceananigans"]
     }
   ],
   "languages": [
