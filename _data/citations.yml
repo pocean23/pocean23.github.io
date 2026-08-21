@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-21'
 papers:
   bnpGrxIAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: 'S-MODE: The Sub-Mesoscale Ocean Dynamics Experiment'
     year: '2025'
   bnpGrxIAAAAJ:UeHWp8X0CEIC:
-    citations: 26
+    citations: 29
     title: 'S-mode: the sub-mesoscale ocean dynamics experiment'
     year: '2025'
   bnpGrxIAAAAJ:Y0pCki6q_DkC:
@@ -18,7 +18,7 @@ papers:
     title: Investigating Ocean Fronts and Kinetic Energy Fluxes Using Saildrone Observations
     year: '2026'
   bnpGrxIAAAAJ:qjMakFHDy7sC:
-    citations: 0
+    citations: 1
     title: Acoustic Doppler Current Profiler Measurements from Saildrones, with Applications to Submesoscale Studies
     year: '2026'
   bnpGrxIAAAAJ:u5HHmVD_uO8C:
@@ -26,6 +26,6 @@ papers:
     title: "Characterization of the East India Coastal Current using a Drifter, HF Radars and Altimetry during October\u2013November 2015"
     year: '2020'
   bnpGrxIAAAAJ:zYLM7Y9cAGgC:
-    citations: 30
+    citations: 36
     title: 'Uncrewed Surface Vehicles in the Global Ocean Observing System: A New Frontier for observing and monitoring at the air-sea interface'
     year: '2025'
